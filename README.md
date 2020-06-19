@@ -6,7 +6,7 @@ Based on : https://medium.com/@matt95.righetti/build-your-first-telegram-bot-usi
 - The Telegram bot is based on PyTelegramBotAPI | https://pypi.org/project/pyTelegramBotAPI/
 - The bot module requires an older version of the requests module which is giving a potential warning error in GitHub, so use with your own judgement.
 - The bot scrapes data from the COVID - 19 section of worldometers website. Address | https://www.worldometers.info/coronavirus/
-- The bot has built in commands such as /start, /global, /notfy, /usage and /about.
+- The bot has built in commands such as /start, /global, /notify, /usage and /about.
 - Comments have been put in blocks of code to help guide the process
 - As the bot depends on scraping to get its data and since worldometers doesn't current have a robots.txt as per last check on Jun 15, the scraping code has been removed and can be received upon direct request.
 - The bot is written in Python to be run as a flask server based in heroku so that the bot can implement webhooks and work smoothly.
