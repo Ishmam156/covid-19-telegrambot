@@ -3,7 +3,7 @@ Flask==1.1.1
 gunicorn==19.5.0
 itsdangerous==1.1.0
 MarkupSafe==1.1.1
-requests==2.7.0
+requests==2.20.0
 rope==0.14.0
 Werkzeug==0.16.0
 telebot==0.0.3
