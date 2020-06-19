@@ -8,3 +8,5 @@ rope==0.14.0
 Werkzeug==0.16.0
 telebot==0.0.3
 pyTelegramBotAPI==3.7.1
+apscheduler==3.6.3
+beautifulsoup4==4.9.0
